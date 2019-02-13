@@ -19,6 +19,7 @@ public class ForeachEx {
 			System.out.println(s+" ");
 		}
 		//dya는 월, 화, 수 , 목, 금, 토 , 일
+		
 		System.out.println();{
 		for (Week day: Week.values())
 			System.out.print(day);
